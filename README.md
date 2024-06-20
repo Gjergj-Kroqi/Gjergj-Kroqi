@@ -4,8 +4,6 @@
 
 - <b>Java</b>
   - [Calculator](https://github.com/Gjergj-Kroqi/Calculator)   
-- <b>JavaScript, HTML/CSS</b>
-  - [Guessing Game](https://github.com/Gjergj-Kroqi/Number-Guessing-Game)
 - <b>C</b>
   - [Singly LinkedList](https://github.com/Gjergj-Kroqi/Singly-Linked-List) 
 - <b>Java</b>
