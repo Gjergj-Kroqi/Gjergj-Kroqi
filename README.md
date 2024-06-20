@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gjergj! <br/><a href="https://github.com/Gjergj-Kroqi">Programmer</a>, <a href="https://www.linkedin.com/in/gjergj-kroqi/">Second Year Computer Science Student</a></h1>
+<h1>Hi, I'm Gjergj! <br/><a href="https://github.com/Gjergj-Kroqi">Programmer</a>, <a href="https://www.linkedin.com/in/gjergj-kroqi/">Third Year Computer Science Student</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
