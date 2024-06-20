@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [Guessing Game](https://github.com/Gjergj-Kroqi/Calculator)   
+  - [Calculator](https://github.com/Gjergj-Kroqi/Calculator)   
 - <b>JavaScript, HTML/CSS</b>
   - [Guessing Game](https://github.com/Gjergj-Kroqi/Number-Guessing-Game)
 - <b>C</b>
